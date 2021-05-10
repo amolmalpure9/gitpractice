@@ -1,1 +1,1 @@
-This is sample project for git demo
+from main/master branch
